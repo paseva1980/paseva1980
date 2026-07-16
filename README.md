@@ -277,9 +277,9 @@ I'm currently focused on building modern enterprise software using:
 # 📊 GitHub Stats
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paseva1980&show_icons=true&hide_border=true)
+https://github-readme-stats.vercel.app/api?username=paseva1980&show_icons=true&hide_border=true
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paseva1980&layout=compact&hide_border=true)
+https://github-readme-stats.vercel.app/api/top-langs/?username=paseva1980&layout=compact&hide_border=true
 ```
 
 
