@@ -276,11 +276,13 @@ I'm currently focused on building modern enterprise software using:
 
 # 📊 GitHub Stats
 
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paseva1980&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="170"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=paseva1980&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paseva1980&layout=compact&theme=tokyonight&hide_border=true)
-```
+  <img height="170"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paseva1980&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 
 
