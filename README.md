@@ -1,48 +1,78 @@
-# Pablo Sepúlveda Vallejos
+<div align="center">
 
-> Software Architect • Full Stack Developer • Computer Engineer • MBA (Graduate Studies)
+# 👋 Hi, I'm Pablo Sepúlveda
 
-I design and build scalable software solutions that solve real business problems. With more than 20 years of experience in technology leadership, digital transformation, and enterprise systems, I specialize in modern SaaS architectures, ERP platforms, and Point of Sale (POS) systems using cutting-edge web technologies.
+### Software Architect • Full Stack Engineer • Computer Engineer • MBA
 
----
+Building scalable cloud software for the next generation of businesses.
 
-# 👋 About Me
-
-I'm a **Software Architect** and **Full Stack Developer** passionate about designing clean, scalable, and maintainable applications.
-
-Throughout my career, I have led technology initiatives, digital transformation projects, and software development teams across both public and private sectors.
-
-Today, I am the founder of **Prisma Servicios SpA**, where I architect and develop **PrismaGo**, a cloud-native ERP and Point of Sale platform built specifically for small and medium-sized businesses.
-
-I strongly believe that great software is created through simplicity, solid architecture, and continuous improvement.
+**Founder @ Prisma Servicios SpA**
 
 ---
 
-# 🚀 Core Expertise
+<p>
 
-- Software Architecture
-- Full Stack Development
-- SaaS Platforms
-- Multi-Tenant Systems
-- Enterprise Resource Planning (ERP)
+<img src="https://img.shields.io/badge/Next.js-16-black?logo=next.js">
+<img src="https://img.shields.io/badge/React-19-61DAFB?logo=react">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/tRPC-398CCB">
+<img src="https://img.shields.io/badge/Drizzle-ORM-C5F74F">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-black?logo=vercel">
+
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I am a Software Architect and Full Stack Engineer with more than **20 years of experience** designing enterprise software, leading digital transformation initiatives, and building scalable cloud-native applications.
+
+Throughout my career, I have worked across software engineering, technology leadership, public administration, and business process optimization.
+
+Today I focus on designing modern SaaS platforms using **Next.js**, **TypeScript**, **tRPC**, **Drizzle ORM**, and **PostgreSQL**, following Domain-Driven Design and Clean Architecture principles.
+
+My mission is simple:
+
+> Build software that solves real business problems while remaining elegant, maintainable, and scalable.
+
+---
+
+# 🏗 Current Project
+
+# PrismaGo
+
+Cloud ERP + POS Platform for Small and Medium Businesses
+
+PrismaGo is a modern cloud-native platform built from the ground up using the latest web technologies.
+
+### Current Modules
+
 - Point of Sale (POS)
-- Domain Driven Design (DDD)
-- Clean Architecture
-- API Design
-- Digital Transformation
-- Cloud-Native Applications
-- AI-Assisted Software Development
+- ERP
+- CRM
+- Purchasing
+- Inventory
+- Electronic Invoicing
+- Customers
+- Suppliers
+- Dashboards
+- Business Intelligence
+- Multi-Tenant SaaS
 
 ---
 
-# 💻 Tech Stack
+# 💻 Technology Stack
 
 ## Frontend
 
-- Next.js
-- React
+- Next.js 16
+- React 19
 - TypeScript
-- Tailwind CSS
+- Tailwind CSS v4
 - shadcn/ui
 
 ## Backend
@@ -53,48 +83,51 @@ I strongly believe that great software is created through simplicity, solid arch
 - PostgreSQL
 - Redis
 
-## DevOps & Infrastructure
+## Cloud
 
-- Docker
-- Git
-- GitHub
 - Vercel
+- Neon
+- Docker
+- GitHub Actions
 
-## Software Architecture
+## Architecture
 
 - Domain Driven Design (DDD)
 - Clean Architecture
 - Modular Monolith
+- API First
+- Event Driven Design
 - Multi-Tenant SaaS
-- Event-Driven Design
-- API First Design
+- SOLID Principles
+- Vertical Slice Architecture
 
 ---
 
-# 💼 Professional Experience
+# ⭐ Core Expertise
 
-## Founder • Software Architect • Full Stack Developer
+- Software Architecture
+- Enterprise Software
+- SaaS Platforms
+- ERP Systems
+- POS Systems
+- Cloud Computing
+- Full Stack Development
+- API Design
+- Database Design
+- Performance Optimization
+- Digital Transformation
+- Technical Leadership
+- AI-Assisted Development
 
-### Prisma Servicios SpA
+---
 
-**2026 – Present**
+# 📂 Featured Projects
 
-Founder and lead developer of **PrismaGo**, a cloud-native ERP and POS platform built for small and medium-sized businesses.
+## 🚀 PrismaGo
 
-### Responsibilities
+Modern ERP + POS
 
-- Software architecture
-- Full Stack development
-- Database design
-- Multi-tenant architecture
-- ERP module design
-- POS architecture
-- Electronic invoicing integration
-- Performance optimization
-- API design
-- Technical leadership
-
-### Technologies
+Built with
 
 - Next.js
 - React
@@ -103,57 +136,74 @@ Founder and lead developer of **PrismaGo**, a cloud-native ERP and POS platform 
 - Drizzle ORM
 - PostgreSQL
 - Redis
-- Tailwind CSS
-- Docker
-- Vercel
+
+Highlights
+
+- Multi-Tenant
+- Electronic Invoicing
+- Inventory
+- CRM
+- Purchasing
+- Sales
+- Business Intelligence
 
 ---
 
-## Deputy Director of Administration and Physical Resources
+## 🏭 ERP Monsálvez
 
-### San Pedro de la Paz Municipal Health Department
+Enterprise Resource Planning platform for the manufacturing industry.
+
+Modules
+
+- CRM
+- Production
+- Purchasing
+- Inventory
+- Sales
+- Workflow
+- Document Management
+
+---
+
+# 💼 Professional Experience
+
+## Founder
+
+### Prisma Servicios SpA
+
+**2026 — Present**
+
+Founder and Software Architect responsible for the design and development of PrismaGo.
+
+Responsibilities
+
+- Software Architecture
+- Full Stack Development
+- Database Design
+- Cloud Infrastructure
+- ERP Architecture
+- POS Architecture
+- Technical Leadership
+
+---
+
+## Deputy Director of Administration & Physical Resources
+
+San Pedro de la Paz Municipal Health Department
 
 **2008 – 2025**
 
-Led administrative operations, financial management, IT strategy, infrastructure projects, and digital transformation initiatives.
-
-### Key Responsibilities
-
-- Administrative leadership
-- Financial planning
-- Procurement management
-- Information Technology
-- Infrastructure management
-- Strategic planning
-- Project management
-- Digital transformation
-
-### Key Achievements
-
-- Led multiple institutional modernization projects
-- Implemented enterprise technology solutions
-- Improved operational efficiency through automation
-- Managed multidisciplinary teams
-- Oversaw large-scale infrastructure investments
+Led administrative operations, financial planning, procurement, IT strategy, infrastructure projects, and institutional modernization initiatives.
 
 ---
 
 ## IT Professional
 
-### San Pedro de la Paz Municipal Health Department
+San Pedro de la Paz Municipal Health Department
 
 **2002 – 2008**
 
 Designed and developed software solutions supporting Primary Healthcare services.
-
-Responsibilities included:
-
-- Software development
-- Database administration
-- Server administration
-- Network infrastructure
-- Technical support
-- Process automation
 
 ---
 
@@ -161,154 +211,79 @@ Responsibilities included:
 
 ## Computer Engineering
 
-**Universidad de Las Américas**
-
-2004 – 2007
+Universidad de Las Américas
 
 ---
 
 ## MBA (Graduate Studies)
 
-**Universidad de Concepción**
-
-2010 – 2012
+Universidad de Concepción
 
 ---
 
-## Diploma in Finance and Management Control
+## Diploma in Finance & Management Control
 
-**E-Class Academy**
-
-2021
+E-Class Academy
 
 ---
 
-# 🏗 Featured Projects
+# 🌱 Currently Learning
 
-## PrismaGo
-
-A modern cloud-native ERP and Point of Sale platform designed for small and medium-sized businesses.
-
-### Features
-
-- Multi-Tenant Architecture
-- Modern Web POS
-- Modular ERP
-- Electronic Invoicing
-- Inventory Management
-- Sales Management
-- Purchasing
-- Customer Management
-- Supplier Management
-- Financial Dashboard
-- Business Intelligence
-
-### Technology Stack
-
-- Next.js
-- React
-- TypeScript
-- tRPC
-- Drizzle ORM
-- PostgreSQL
+- AI Agents
+- MCP
+- Vercel AI SDK
+- LangGraph
+- Event-Driven Systems
+- Distributed Architectures
 
 ---
 
-## ERP Monsálvez
-
-A custom ERP solution developed for the manufacturing industry.
-
-Modules include:
-
-- CRM
-- Production
-- Inventory
-- Purchasing
-- Sales
-- Document Management
-- Workflow Management
-
----
-
-# 📚 Technical Skills
-
-## Software Engineering
-
-- Software Architecture
-- Full Stack Development
-- Enterprise Systems
-- API Design
-- Database Design
-- SQL Optimization
-- Performance Tuning
-
-## Leadership
-
-- Technical Leadership
-- Team Management
-- Digital Transformation
-- Strategic Planning
-- Project Management
-- Process Improvement
-
-## Databases
-
-- PostgreSQL
-- Relational Database Design
-- SQL Optimization
-
----
-
-# 🌱 Current Focus
-
-I'm currently focused on building modern enterprise software using:
-
-- Next.js
-- TypeScript
-- AI-assisted development
-- SaaS Architecture
-- Enterprise Applications
-- Cloud Computing
-- Business Automation
-- Software Engineering Best Practices
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=paseva1980&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="170"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paseva1980&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=paseva1980&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=paseva1980&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
-
-
 
 ---
 
 # 💡 Engineering Philosophy
 
-> *"The best software architecture is the one that enables change with the lowest possible cost."*
+> **"Architecture is not about building software for today. It's about enabling change tomorrow."**
 
-I believe software should be designed to evolve. Great systems prioritize maintainability, scalability, readability, and long-term business value over unnecessary complexity.
+I believe great software is built on simplicity, maintainability, and continuous evolution rather than unnecessary complexity.
 
-Every line of code should contribute to solving a real problem.
+Every system should be designed to support business growth while minimizing technical debt.
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always interested in collaborating on projects involving:
+I'm always interested in collaborating on projects involving
 
-- Software Architecture
-- Enterprise Applications
-- ERP Systems
-- Point of Sale (POS)
+- Cloud Software
 - SaaS Platforms
+- ERP
+- CRM
+- Point of Sale
 - Artificial Intelligence
-- Cloud Computing
+- Enterprise Applications
+- Software Architecture
 - Open Source
-- Full Stack Development
-- Digital Transformation
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+*"Building software that lasts."*
+
+</div>
