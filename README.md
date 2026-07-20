@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="./assets/banner2.jpeg" alt="Pablo Sepúlveda Banner" width="100%" heigth="60%" >
+  <img src="./assets/banner3.jpeg" alt="Pablo Sepúlveda Banner" width="100%" heigth="60%" >
 </p>
 
 # 👋 Hi, I'm Pablo Sepúlveda
