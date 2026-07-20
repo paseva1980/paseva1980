@@ -1,4 +1,7 @@
 <div align="center">
+<p align="center">
+  <img src="./assets/banner.png" alt="Pablo Sepúlveda Banner" width="100%">
+</p>
 
 # 👋 Hi, I'm Pablo Sepúlveda
 
